@@ -2,7 +2,6 @@
 
 - 🔭 Não trabalho na área de programação atualmente;
 - 🌱 Estudando Front-End
-- ⚡ Fato engraçado: Larguei a faculdade de Engenharia Elétrica para mergulhar na área de programação;
 
 <div>
 <a href="https://beacons.ai/pedrovsfelix">
