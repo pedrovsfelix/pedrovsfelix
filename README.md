@@ -7,6 +7,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,angular,react" />
   </a>
 </p>
+
 - 🌱 Estudando Back-End
 <p align="left">
   <a href="https://skillicons.dev">
