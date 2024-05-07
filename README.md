@@ -2,13 +2,13 @@
 
 - 🔭 Não trabalho na área de programação atualmente;
 - 🌱 Estudando Front-End
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,angular,react" />
   </a>
 </p>
 - 🌱 Estudando Back-End
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
