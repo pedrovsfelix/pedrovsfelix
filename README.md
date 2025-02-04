@@ -11,7 +11,7 @@
 - 🌱 Estudando Back-End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs" />
   </a>
 </p>
 
